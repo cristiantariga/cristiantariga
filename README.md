@@ -1,6 +1,7 @@
-**Seja Bem Vindo :octocat:**
+**Cristian Tariga:octocat:**  
+Desenvolvedor de Software, 1 ano de experiência.
 
-**Resumo de Habilidades: :hammer:**  
+**Habilidades: :hammer:**  
 
 |  JavaScript |  Java | Google|
 |---|---|---|
