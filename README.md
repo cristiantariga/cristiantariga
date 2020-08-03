@@ -1,4 +1,9 @@
 **Seja Bem Vindo :octocat:**
 
-**Habilidades FrontEnd: :hammer:**  
-ReactJS, React Native, AMP, Google Tag Manager
+**Resumo de Habilidades: :hammer:**  
+
+|  JavaScript |  Java |
+|---|---|
+| ReactJS  |  Spring Boot |
+|  React Native |  Java Persistence API |
+|  Axios |  |
