@@ -1,5 +1,5 @@
 **Cristian Tariga:octocat:**  
-Desenvolvedor de Software, 2 anos de experiência.
+Desenvolvedor de Software, 4 anos de experiência.
 
 **Habilidades: :hammer:**  
 
